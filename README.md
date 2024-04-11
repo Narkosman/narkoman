@@ -1,0 +1,2 @@
+# narkoman
+narko tg
